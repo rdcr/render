@@ -1,6 +1,6 @@
 {
   "name": "@reducer/render",
-  "version": "0.0.0-pre",
+  "version": "0.0.0",
   "description": "The Reducer To Render Elements On The Page And Keep Them There Whenever The Parent Is Present.",
   "main": "build/index.js",
   "module": "src/index.js",
